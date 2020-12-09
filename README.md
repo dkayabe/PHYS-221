@@ -12,5 +12,5 @@ Lab 06: Skipped over by prof/TA
 Lab 07: 
 Lab 08: 
 Lab 09: 
-Lab 10: 
+Lab 10: Skipped by choice cuz too lazy
 Lab 11: 
